@@ -10,6 +10,7 @@
 - [Курсовая работа](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya.pdf):pushpin:
 - [Презентация](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pdf):pushpin:
 - [Trello](https://trello.com/202297922533):pushpin:
+- [jira](https://www.atlassian.com/ru/software/jira3):pushpin:
 
 ## В данной репозитории представлен frontend приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
 - [Backend](https://github.com/TheTargetAdam/back):point_left:
