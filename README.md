@@ -15,7 +15,7 @@
 - [Видео с кодом и работой проекта](https://github.com/TheTargetAdam/docs-/blob/main/Bandicam.mp4)
 - [Видео с презентацией(защитой проекта)](https://github.com/TheTargetAdam/docs-/blob/main/BandicamPrez.mp4)
 - [Ссылка](http://45.147.160.96:9065/)
-Что то перемудрил, не знаю точно запустится ли
+Что то перемудрил, попытался сделать, не знаю точно 
 
 ## В данной репозитории представлен frontend приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
 - [Backend](https://github.com/TheTargetAdam/back):point_left:
